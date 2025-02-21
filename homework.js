@@ -42,7 +42,7 @@
         .style("border", "1px solid black")
         .style("padding", "4px 8px")
         .style("border-radius", "4px")
-        .style("pointer-events", "none")
+        .style("pointer-events", "none") 
         .style("opacity", 0);
 
     // 3. LOAD THE DATA (CSV) 
